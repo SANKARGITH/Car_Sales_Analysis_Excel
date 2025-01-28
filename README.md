@@ -1,3 +1,6 @@
+
+![Screenshot 2025-01-28 190212](https://github.com/user-attachments/assets/d7d6f6de-7f0f-41ca-860d-cc60672350ab)
+
 This repository contains an Excel-based data analysis project focused on car sales performance. The analysis includes key visualizations to track sales trends, dealer performance, and profitability insights.
 
 Key Visualizations:
